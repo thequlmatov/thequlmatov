@@ -1,70 +1,55 @@
-# Getting Started with Create React App
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3F8FEC&height=200&section=header&text=Hi%20I'm%20Zuhriddin%20Qulmatov!&fontSize=35&fontAlign=50&fontColor=ffffff" />
+</p>
+<h3 align="center">🎯 Frontend Developer from Tashkent, Uzbekistan</h3>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3F8FEC&center=true&vCenter=true&width=600&lines=Frontend+Developer+%7C+React+%7C+TypeScript;1%2B+Years+Experience+in+Frontend+Development;Passionate+about+UI%2FUX+and+Modern+Web+Tech;Always+learning+and+improving+%F0%9F%93%9A"
+  alt="Typing SVG" />
+</p>
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### 🧑‍💻 About Me
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- 💻 Frontend Developer with **1+ years of experience**
+- ⚛️ Building modern web interfaces with **React**, **TypeScript**, and **Tailwind CSS**
+- 🧠 State management with **Zustand** and **React Query**
+- 🌍 Multilingual apps using **react-i18next**
+- 📦 Building modular, maintainable UIs with **Flowbite**, **component libraries**, and **form validation**
+- 🛠️ Focused on accessibility, performance, and responsive design
+- 🔍 Interested in clean code, reusable components, and efficient UI/UX patterns
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 🚀 Tech Stack
 
-### `npm run build`
+#### 🖥️ Frontend Technologies
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
+![Flowbite](https://img.shields.io/badge/-Flowbite-black?style=flat-square&logo=flowbite)
+![Zustand](https://img.shields.io/badge/-Zustand-black?style=flat-square&logo=react)
+![React Query](https://img.shields.io/badge/-React%20Query-black?style=flat-square&logo=react-query)
+![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-black?style=flat-square&logo=react-hook-form)
+![Yup](https://img.shields.io/badge/-Yup-black?style=flat-square&logo=yup)
+![i18next](https://img.shields.io/badge/-i18next-black?style=flat-square&logo=i18next)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+#### 🛠️ Development Tools
+![ESLint](https://img.shields.io/badge/-ESLint-black?style=flat-square&logo=eslint)
+![Prettier](https://img.shields.io/badge/-Prettier-black?style=flat-square&logo=prettier)
+![Husky](https://img.shields.io/badge/-Husky-black?style=flat-square&logo=husky)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### 📫 Contact Me
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<p align="left">
+  <a href="mailto:zuxroka0104@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://t.me/zuxrdev"><img src="https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=telegram&logoColor=white"/></a>
+</p>
