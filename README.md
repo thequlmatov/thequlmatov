@@ -51,5 +51,5 @@
 
 <p align="left">
   <a href="mailto:zuxroka0104@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://t.me/zuxrdev"><img src="https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=telegram&logoColor=white"/></a>
+  <a href="https://t.me/zuhriddin_qulmatov"><img src="https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=telegram&logoColor=white"/></a>
 </p>
